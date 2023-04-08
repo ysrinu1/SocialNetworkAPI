@@ -2,14 +2,10 @@
 ### Table of Contents
 
 - [Description](#description)
-- [Technologies Used](#technologies-used)
-  - [Coding Badges](#coding-badges)
 - [Local Installation](#local-installation)
-- [Video Walkthrough](#video-walkthrough)
 - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
 - [License](#license)
-- [How to Contribute](#how-to-contribute)
 
 ---
 
@@ -86,8 +82,5 @@ SOFTWARE.
 
 ---
 
-## How to Contribute
-
-## [Contributor Covenant](https://www.contributor-covenant.org/)
 
 [Back to Top](#table-of-contents)
