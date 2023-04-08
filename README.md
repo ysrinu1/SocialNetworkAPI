@@ -52,6 +52,25 @@ WHEN I test API POST and DELETE routes in Insomnia
 
 [Back to Top](#table-of-contents)
 
+api:users.png
+api:thougths:id.png
+api:users:id.png
+api:thougths.png
+
+
+## Screen Shots
+
+![Screen Shot of Home](./pics/api/users.png)
+
+---
+![Screen Shot of Signup](./pics/api/thoughts.png)
+
+---
+![Screen Shot of Login](./pics/api/users/id.png)
+
+---
+![Screen Shot of Menu](./pics/api/thoughts/id.png)
+
 ---
 
 # License
