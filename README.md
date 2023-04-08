@@ -58,16 +58,16 @@ WHEN I test API POST and DELETE routes in Insomnia
 
 ![Screen Shot of users routes api](./pics/api/users.png)
 
----
+
 ![Screen Shot of thoughts routes api](./pics/api/thoughts.png)
 
----
+
 ![Screen Shot of users routes api by id](./pics/api/usersid.png)
 
----
+
 ![Screen Shot of thoughts routes api by id ](./pics/api/thoughtsid.png)
 
----
+
 
 # License
 
